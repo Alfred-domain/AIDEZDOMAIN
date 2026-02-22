@@ -1,4 +1,7 @@
-This project use Python 3.12.3 Machine Learning a fire detection 1X Train in 10 fps camera 
+This project use Python 3.12.3 Machine Learning a fire detection 1X Train in 10 fps camera
+
+use best.pt for better detection due its 4,000+ image and video and much higher 
+learning curve than other version of yolo i use
 
 fire detection YOLO file
 https://universe.roboflow.com/-jwzpw/continuous_fire 
